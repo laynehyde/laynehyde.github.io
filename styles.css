@@ -15,4 +15,6 @@ nav li {
 	background: white;
 }
 
-A href {border-style: outset;}
+A href {
+	border-style: outset;
+	}
