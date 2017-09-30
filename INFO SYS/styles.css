@@ -1,0 +1,17 @@
+h1 { color: darkblue }
+
+body { 
+	background: sliver;
+	color: darkblue;
+	font-size: 24pt;
+	font-family: 'Cookie', cursive;
+	padding: 10px;
+	margin: 20px;
+} 
+
+nav li {
+	display: inline-block;
+	border: 2px solid black;
+	background: white;
+}
+
